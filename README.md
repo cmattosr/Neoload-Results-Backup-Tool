@@ -11,4 +11,4 @@ This application will create a compressed zip file with the Neoload results info
 2 - The application scans D:\ drive and its subfolders looking for the results of the scenario and project names provided and it will create a compressed zip file in D:\Backup with the name previously provided <br>
 3 - Please provide any feedback to cesar_mattos@dell.com
 
-![App Interface](https://github.com/cmattosr/Disable-C-and-D-shared-folders/raw/main/images/interface.png)
+![App Interface](https://github.com/cmattosr/Neoload-Results-Backup-Tool/raw/main/images/Backup_Interface.png)
